@@ -1,4 +1,4 @@
-### USAGE:
+### USAGE
 # upload-s3 <bucket_name> <filename>
 
 S3_BUCKET=wbv

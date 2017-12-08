@@ -1,7 +1,7 @@
 #!/bin/bash
 
-#### 
-# ARG 1: bucket, ARG 2: file name
+### USAGE
+# detact-faces <bucket_name>, <filename>
 
 if [ $# -eq 0 ] 
     then
