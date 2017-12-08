@@ -1,4 +1,3 @@
-S#_BUCKET=wbv
 S3_BUCKET=wbv
 FILENAME=w1.jpg
 
